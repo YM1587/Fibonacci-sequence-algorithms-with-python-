@@ -70,5 +70,5 @@ python fibonacci.py
 This project is open-source and available under the MIT License.
 
 ---
-Enjoy coding Fibonacci in Python! 🚀
+Enjoy coding Fibonacci in Python! 
 
